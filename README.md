@@ -82,3 +82,7 @@ The Standard deviation of arrival form feeder is 1.326650
 ```
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
+
+
+# Git hub :
+https://github.com/Bala123-d/Mean-and-Variance.git
