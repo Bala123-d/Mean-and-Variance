@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
-
+```
+# Name: D.BALA SUBRAMANYAM
+# Reg no: 212224040062
+```
 
 # Aim : 
 
@@ -85,4 +88,6 @@ The mean and variance of arrivals of objects from feeder using probability distr
 
 
 # Git hub :
+```
 https://github.com/Bala123-d/Mean-and-Variance.git
+```
