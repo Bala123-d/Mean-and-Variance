@@ -1,12 +1,8 @@
 # Date: 28/01/26
 
-#  Mean and variance of a discrete  distribution
-```
-# Name: D.BALA SUBRAMANYAM
-# Reg no: 212224040062
-```
+## EXP:1 Mean and variance of a discrete  distribution
 
-# Aim : 
+## Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
 
@@ -89,7 +85,7 @@ The Standard deviation of arrival form feeder is 1.326650
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
 
-# Git hub :
+# Github :
 ```
 https://github.com/Bala123-d/Mean-and-Variance.git
 ```
